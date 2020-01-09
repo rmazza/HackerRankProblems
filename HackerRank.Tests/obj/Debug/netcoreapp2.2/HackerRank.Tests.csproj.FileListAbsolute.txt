@@ -1,0 +1,17 @@
+C:\Solutions\HackerRank\HackerRank.Tests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Solutions\HackerRank\HackerRank.Tests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Solutions\HackerRank\HackerRank.Tests\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\Solutions\HackerRank\HackerRank.Tests\bin\Debug\netcoreapp2.2\HackerRank.Tests.deps.json
+C:\Solutions\HackerRank\HackerRank.Tests\bin\Debug\netcoreapp2.2\HackerRank.Tests.runtimeconfig.json
+C:\Solutions\HackerRank\HackerRank.Tests\bin\Debug\netcoreapp2.2\HackerRank.Tests.runtimeconfig.dev.json
+C:\Solutions\HackerRank\HackerRank.Tests\bin\Debug\netcoreapp2.2\HackerRank.Tests.dll
+C:\Solutions\HackerRank\HackerRank.Tests\bin\Debug\netcoreapp2.2\HackerRank.Tests.pdb
+C:\Solutions\HackerRank\HackerRank.Tests\bin\Debug\netcoreapp2.2\HackerRank.dll
+C:\Solutions\HackerRank\HackerRank.Tests\bin\Debug\netcoreapp2.2\HackerRank.pdb
+C:\Solutions\HackerRank\HackerRank.Tests\obj\Debug\netcoreapp2.2\HackerRank.Tests.csprojAssemblyReference.cache
+C:\Solutions\HackerRank\HackerRank.Tests\obj\Debug\netcoreapp2.2\HackerRank.Tests.csproj.CoreCompileInputs.cache
+C:\Solutions\HackerRank\HackerRank.Tests\obj\Debug\netcoreapp2.2\HackerRank.Tests.AssemblyInfoInputs.cache
+C:\Solutions\HackerRank\HackerRank.Tests\obj\Debug\netcoreapp2.2\HackerRank.Tests.AssemblyInfo.cs
+C:\Solutions\HackerRank\HackerRank.Tests\obj\Debug\netcoreapp2.2\HackerRank.Tests.csproj.CopyComplete
+C:\Solutions\HackerRank\HackerRank.Tests\obj\Debug\netcoreapp2.2\HackerRank.Tests.dll
+C:\Solutions\HackerRank\HackerRank.Tests\obj\Debug\netcoreapp2.2\HackerRank.Tests.pdb

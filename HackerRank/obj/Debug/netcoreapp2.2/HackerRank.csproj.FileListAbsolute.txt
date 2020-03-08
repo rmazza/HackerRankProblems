@@ -1,9 +1,0 @@
-C:\Solutions\HackerRank\HackerRank\bin\Debug\netcoreapp2.2\HackerRank.deps.json
-C:\Solutions\HackerRank\HackerRank\bin\Debug\netcoreapp2.2\HackerRank.dll
-C:\Solutions\HackerRank\HackerRank\bin\Debug\netcoreapp2.2\HackerRank.pdb
-C:\Solutions\HackerRank\HackerRank\obj\Debug\netcoreapp2.2\HackerRank.csprojAssemblyReference.cache
-C:\Solutions\HackerRank\HackerRank\obj\Debug\netcoreapp2.2\HackerRank.csproj.CoreCompileInputs.cache
-C:\Solutions\HackerRank\HackerRank\obj\Debug\netcoreapp2.2\HackerRank.AssemblyInfoInputs.cache
-C:\Solutions\HackerRank\HackerRank\obj\Debug\netcoreapp2.2\HackerRank.AssemblyInfo.cs
-C:\Solutions\HackerRank\HackerRank\obj\Debug\netcoreapp2.2\HackerRank.dll
-C:\Solutions\HackerRank\HackerRank\obj\Debug\netcoreapp2.2\HackerRank.pdb
